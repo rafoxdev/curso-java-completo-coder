@@ -2,10 +2,10 @@
 
 ## Introdução ao Java
 
-### História do Java e princípios fundamentais
-### Instalação do JDK e configuração do ambiente de desenvolvimento
-### Sintaxe básica: variáveis, tipos de dados, operadores
-### Estruturas de controle: condicionais e loops
+História do Java e princípios fundamentais
+Instalação do JDK e configuração do ambiente de desenvolvimento
+Sintaxe básica: variáveis, tipos de dados, operadores
+Estruturas de controle: condicionais e loops
 
 ## Programação Orientada a Objetos (POO)
 
