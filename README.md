@@ -5,27 +5,27 @@
 História do Java e princípios fundamentais
 Instalação do JDK e configuração do ambiente de desenvolvimento
 Sintaxe básica: variáveis, tipos de dados, operadores
-Estruturas de controle: condicionais e loops
+Estruturas de controle: condicionais e loops.
 
 ## Programação Orientada a Objetos (POO)
 
 Conceitos de POO: classes, objetos, herança, polimorfismo, encapsulamento e abstração.
 Interfaces e classes abstratas
-Coleções e estruturas de dados genéricas
+Coleções e estruturas de dados genéricas.
 
 ## Desenvolvimento Avançado
 
 Tratamento de exceções e debugging
 Manipulação de arquivos e streams
 Programação concorrente e multithreading
-Acesso a banco de dados com JDBC
+Acesso a banco de dados com JDBC.
 
 ## Tópicos Avançados
 
 Desenvolvimento de GUI com Swing e JavaFX
 Redes e programação de sockets
 Desenvolvimento Web com Java: Servlets e JSP
-Frameworks modernos: Spring e Hibernate
+Frameworks modernos: Spring e Hibernate.
 
 ## Projetos Práticos
 
