@@ -1,4 +1,4 @@
-package br.com.rafabueno.fundamentos.orientacaoObjeto.composicao.desafio;
+package br.com.rafabueno.fundamentos.orientacaoObjeto.composicaoDesafio;
 
 import java.util.ArrayList;
 import java.util.List;

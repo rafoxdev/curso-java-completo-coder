@@ -1,5 +1,7 @@
 package br.com.rafabueno.fundamentos.orientacaoObjeto.composicao;
 
+import br.com.rafabueno.fundamentos.orientacaoObjeto.composicao.Aluno;
+
 import java.util.ArrayList;
 import java.util.List;
 

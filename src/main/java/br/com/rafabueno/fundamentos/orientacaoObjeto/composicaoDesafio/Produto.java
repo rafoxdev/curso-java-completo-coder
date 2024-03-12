@@ -1,4 +1,4 @@
-package br.com.rafabueno.fundamentos.orientacaoObjeto.composicao.desafio;
+package br.com.rafabueno.fundamentos.orientacaoObjeto.composicaoDesafio;
 
 public class Produto {
 

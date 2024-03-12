@@ -1,5 +1,7 @@
 package br.com.rafabueno.fundamentos.orientacaoObjeto.composicao;
 
+import br.com.rafabueno.fundamentos.orientacaoObjeto.composicao.Carro;
+
 /**
  * RELACIONAMENTO 1 PARA 1:
  *
